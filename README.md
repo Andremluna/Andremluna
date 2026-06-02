@@ -102,8 +102,8 @@ const andre = {
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Andremluna&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=C6FF00&icon_color=C6FF00&text_color=E8FFB3&ring_color=C6FF00"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andremluna&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=C6FF00&text_color=E8FFB3"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Andremluna&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C6FF00&icon_color=C6FF00&text_color=E8FFB3&cache_seconds=1800" alt="github stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andremluna&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C6FF00&text_color=E8FFB3&cache_seconds=1800" alt="top languages"/>
 </div>
 
 <div align="center">
