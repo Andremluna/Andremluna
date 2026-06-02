@@ -3,10 +3,10 @@
 <!--   Theme: Lime / Neon Yellow-Green on Onyx                    -->
 <!-- ============================================================= -->
 
-<!-- ============== HEADER — gradient wave banner ============== -->
+<!-- ============== HEADER — neon stripe + venom drip ============== -->
 
 <a href="https://github.com/Andremluna">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:C6FF00,100:9FE600&height=240&section=header&text=ANDRE%20MANOEL&fontSize=72&fontColor=0a0a0a&fontAlignY=38&desc=Frontend%20Developer%20x%20UI/UX%20Designer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,40:C6FF00,100:9FE600&height=260&section=header&text=ANDR%C3%89%20MANOEL&fontSize=78&fontColor=F2FFD6&fontAlignY=38&desc=%E2%9C%A6%20Frontend%20Developer%20%C3%97%20UI%2FUX%20Designer%20%E2%9C%A6&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="header banner"/>
 </a>
 
 <!-- thin accent stripe -->
