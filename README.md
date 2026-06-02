@@ -3,10 +3,10 @@
 <!--   Theme: Lime / Neon Yellow-Green on Onyx                    -->
 <!-- ============================================================= -->
 
-<!-- ============== HEADER — neon stripe + venom drip ============== -->
+<!-- ============== HEADER — gradient wave banner ============== -->
 
 <a href="https://github.com/Andremluna">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,40:C6FF00,100:9FE600&height=260&section=header&text=ANDR%C3%89%20MANOEL&fontSize=78&fontColor=F2FFD6&fontAlignY=38&desc=%E2%9C%A6%20Frontend%20Developer%20%C3%97%20UI%2FUX%20Designer%20%E2%9C%A6&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:C6FF00,100:9FE600&height=240&section=header&text=ANDRE%20MANOEL&fontSize=72&fontColor=0a0a0a&fontAlignY=38&desc=Frontend%20Developer%20x%20UI/UX%20Designer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header banner"/>
 </a>
 
 <!-- thin accent stripe -->
@@ -162,7 +162,7 @@ If you liked my work or have an idea you want to bring to life — hit me up. �
 
 <br/>
 
-<!-- ============== FOOTER — reversed wave + neon glow text ============== -->
+<!-- ============== FOOTER — mirrored wave banner ============== -->
 
 <!-- thin accent stripe -->
 <div align="center">
@@ -170,8 +170,12 @@ If you liked my work or have an idea you want to bring to life — hit me up. �
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9FE600,40:C6FF00,100:0a0a0a&height=180&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=26&fontColor=F2FFD6&fontAlignY=72&desc=Designed%20%26%20coded%20with%20%E2%9A%A1%20by%20Andr%C3%A9%20Manoel&descSize=14&descAlignY=92&reversal=true&animation=twinkling" width="100%" alt="footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9FE600,50:C6FF00,100:0a0a0a&height=180&section=footer&text=Thanks%20for%20stopping%20by&fontSize=28&fontColor=0a0a0a&fontAlignY=72&animation=fadeIn" width="100%" alt="footer banner"/>
 </div>
+
+<p align="center">
+  <sub>Designed &amp; coded with ⚡ by <b>André Manoel</b></sub>
+</p>
 
 <p align="center">
   <i>"Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs</i>
