@@ -116,10 +116,10 @@ const andre = {
 
 <br/>
 
-## 🏆 &nbsp;Trophies
+## ⚡ &nbsp;Random Dev Quote
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Andremluna&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="dev quote"/>
 </div>
 
 <br/>
